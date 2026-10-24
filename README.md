@@ -1,4 +1,3 @@
-# customer-feedback-center
 # Customer Feedback Center ⭐
 
 A beginner-friendly customer feedback application built using Python and Tkinter.
